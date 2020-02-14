@@ -1,0 +1,6 @@
+framework module Pods_Evolution {
+  umbrella header "Pods-Evolution-umbrella.h"
+
+  export *
+  module * { export * }
+}
